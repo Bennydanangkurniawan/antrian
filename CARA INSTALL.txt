@@ -1,0 +1,10 @@
+1. INSTAL XAMPP
+2. IMPORT DATABASE antrian file berada di dalam db/antrian.sql
+3. SET Data di dalam field setting dalam DATABASE
+4. Copy file video dalam assets/video Pastikan nama File "video.mp4"
+5. Copy file Image (Logo) dalam assets/image nama File "logo.png"
+6. Copy file Image (Akreditasi) dalam assets/image nama File "kars.png"
+//////////////////////////////////////////////////////////////////////
+Bila kesulitan hubungi
+Benny Danang K (L200120013@gmail.com|| 085236192315) 
+Setya Yuli (085725222198)
